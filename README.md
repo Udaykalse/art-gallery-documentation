@@ -17,7 +17,12 @@ The primary objectives of this documentation are to:
 - Improve project maintainability through organized and consistent documentation.
 
 ## Target Audience
+This documentation is intended for:
 
+- **Developers** who want to understand, modify, or extend the application.
+- **Students and learners** interested in HTML, CSS, JavaScript, and technical documentation practices.
+- **Contributors** who plan to improve the project or documentation.
+- **Recruiters and hiring managers** who want to evaluate the project's documentation quality and development practices.
 ## Project Features
 
 ## Technology Stack
