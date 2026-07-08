@@ -7,6 +7,14 @@ The Art Gallery Documentation project provides comprehensive technical documenta
 This documentation serves as a portfolio project that demonstrates professional technical writing practices, including structured documentation, clear navigation, user-focused guides, and developer documentation commonly used in software development teams.
 
 ## Project Objectives
+The primary objectives of this documentation are to:
+
+- Provide clear and well-structured documentation for the Art Gallery web application.
+- Help new users understand the purpose and functionality of the project.
+- Guide developers through the project structure and source code organization.
+- Explain the installation and setup process.
+- Demonstrate professional technical writing practices using the Docs-as-Code approach.
+- Improve project maintainability through organized and consistent documentation.
 
 ## Target Audience
 
