@@ -34,6 +34,14 @@ The Art Gallery web application provides the following features:
 - Fast loading with no external backend dependencies.
 - Simple project structure suitable for learning front-end development.
 ## Technology Stack
+| Technology | Purpose |
+|------------|---------|
+| HTML5 | Provides the semantic structure of the web application. |
+| CSS3 | Styles the user interface, layout, and responsive design. |
+| JavaScript (ES6) | Adds interactivity and dynamic behavior to the gallery. |
+| Visual Studio Code | Recommended code editor for development. |
+| Git | Version control for tracking project changes. |
+| GitHub | Repository hosting and documentation management. |
 
 ## Project Structure
 
