@@ -45,6 +45,22 @@ The Art Gallery web application provides the following features:
 
 ## Project Structure
 
+```text
+art-gallery/
+│
+├── index.html
+├── style.css
+└── script.js
+```
+
+### File Description
+
+| File | Description |
+|------|-------------|
+| `index.html` | The main entry point of the application. Defines the structure and content of the Art Gallery interface. |
+| `style.css` | Contains all styles, including layout, typography, colors, responsive design, and animations. |
+| `script.js` | Implements the application's interactive functionality using JavaScript. |
+
 ## Prerequisites
 
 ## Quick Start
