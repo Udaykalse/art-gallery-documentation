@@ -24,7 +24,15 @@ This documentation is intended for:
 - **Contributors** who plan to improve the project or documentation.
 - **Recruiters and hiring managers** who want to evaluate the project's documentation quality and development practices.
 ## Project Features
+The Art Gallery web application provides the following features:
 
+- Interactive gallery interface for browsing artwork.
+- Responsive design for desktop, tablet, and mobile devices.
+- Clean and user-friendly navigation.
+- Dynamic image interactions using JavaScript.
+- Modern user interface with CSS styling and animations.
+- Fast loading with no external backend dependencies.
+- Simple project structure suitable for learning front-end development.
 ## Technology Stack
 
 ## Project Structure
