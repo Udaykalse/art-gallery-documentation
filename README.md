@@ -65,6 +65,35 @@ art-gallery/
 
 ## Quick Start
 
+Follow these steps to run the project locally:
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/<your-username>/art-gallery-documentation.git
+```
+
+### 2. Navigate to the project directory
+
+```bash
+cd art-gallery-documentation
+```
+
+### 3. Open the project
+
+Open the project in your preferred code editor (for example, Visual Studio Code).
+
+### 4. Launch the application
+
+Open the `index.html` file in your web browser.
+
+Alternatively, if you use the **Live Server** extension in Visual Studio Code:
+
+1. Open the project in VS Code.
+2. Right-click `index.html`.
+3. Select **Open with Live Server**.
+4. The application will open automatically in your default browser.
+
 ## Documentation Index
 
 ## Screenshots
