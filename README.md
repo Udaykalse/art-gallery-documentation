@@ -96,6 +96,23 @@ Alternatively, if you use the **Live Server** extension in Visual Studio Code:
 
 ## Documentation Index
 
+The project documentation is organized into the following guides:
+
+| Document | Description |
+|----------|-------------|
+| [Getting Started](docs/getting-started.md) | Introduction to the project and how to begin. |
+| [Installation Guide](docs/installation.md) | Instructions for setting up the project locally. |
+| [Project Structure](docs/project-structure.md) | Overview of the project's files and organization. |
+| [Features](docs/features.md) | Detailed explanation of application features. |
+| [User Guide](docs/user-guide.md) | Instructions for using the Art Gallery application. |
+| [Developer Guide](docs/developer-guide.md) | Information for developers working on the project. |
+| [Architecture](docs/architecture.md) | High-level overview of the application's design. |
+| [Troubleshooting](docs/troubleshooting.md) | Common issues and their solutions. |
+| [FAQ](docs/faq.md) | Frequently asked questions about the project. |
+| [Glossary](docs/glossary.md) | Definitions of technical terms used in the documentation. |
+| [Contributing](docs/contributing.md) | Guidelines for contributing to the project. |
+| [Changelog](docs/changelog.md) | Record of project updates and documentation changes. |
+
 ## Screenshots
 
 ## Architecture Overview
