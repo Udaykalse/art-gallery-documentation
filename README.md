@@ -115,12 +115,127 @@ The project documentation is organized into the following guides:
 
 ## Screenshots
 
+The following screenshots highlight the main sections and user experience of the Art Gallery web application.
+
+### Homepage
+
+![Homepage](images/homepage.png)
+
+*The landing page featuring the hero section, navigation menu, and primary call-to-action.*
+
+---
+
+### Gallery Section
+
+![Gallery Section](images/gallery-section.png)
+
+*Responsive gallery layout displaying artwork with interactive hover effects.*
+
+---
+
+### Art Types
+
+![Art Types](images/art-types.png)
+
+*Interactive flip cards introducing seven different forms of art.*
+
+---
+
+### About Section
+
+![About Section](images/about-section.png)
+
+*About section featuring project information and animated statistics.*
+
+---
+
+### Contact Form
+
+![Contact Form](images/contact-form.png)
+
+*Users can submit their contact information and messages through the client-side contact form.*
+
+---
+
+### Newsletter
+
+![Newsletter](images/newsletter.png)
+
+*Newsletter subscription section with client-side confirmation.*
+
+---
+
+### Mobile View
+
+![Mobile View](images/mobile-view.png)
+
+*Responsive layout optimized for smaller screen sizes.*
+
+---
+
+### Navigation Menu
+
+![Navigation Menu](images/navigation-menu.png)
+
+*Responsive navigation with smooth scrolling and mobile menu support.*
+
+---
+
 ## Architecture Overview
+
+The Art Gallery application follows a simple client-side architecture based on three core technologies.
+
+```text
+HTML
+   │
+   ▼
+CSS ─────► User Interface
+   ▲
+   │
+JavaScript
+```
+
+For detailed architecture diagrams and implementation details, refer to the [Architecture Guide](docs/architecture.md).
+
+---
 
 ## Future Improvements
 
+The following enhancements are planned for future releases:
+
+- Advanced gallery filtering
+- Artwork search functionality
+- Image lightbox/modal viewer
+- Dark mode support
+- Accessibility improvements (WCAG)
+- Backend integration for contact form
+- Newsletter API integration
+- Performance optimization
+- Lazy loading for images
+- Content Management System (CMS) support
+
+---
+
 ## Contributing
+
+Contributions are welcome.
+
+Please read the [Contributing Guide](docs/contributing.md) before submitting issues, pull requests, or documentation updates.
+
+---
 
 ## License
 
+This project is licensed under the **MIT License**.
+
+See the `LICENSE` file for additional details.
+
+---
+
 ## Author
+
+**Uday Kalse**
+
+- GitHub: https://github.com/Udaykalse
+- LinkedIn: *(Add your profile link)*
+- Portfolio: *(Add your portfolio website when available)*
