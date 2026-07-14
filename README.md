@@ -237,5 +237,4 @@ See the `LICENSE` file for additional details.
 **Uday Kalse**
 
 - GitHub: https://github.com/Udaykalse
-- LinkedIn: *(Add your profile link)*
-- Portfolio: *(Add your portfolio website when available)*
+- LinkedIn: *[( link)](https://www.linkedin.com/in/uday-k-877221391/)*
